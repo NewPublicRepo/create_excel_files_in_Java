@@ -1,1 +1,0 @@
-$device.name alarm: $position.getString("alarm") at $event.serverTime
